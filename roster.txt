@@ -1,0 +1,25 @@
+
+Courtois - G - Unknown - 0 - OVR: 89 - DIV: 85 -HAN: 89 - KIC: 76 - REF: 90 - SPD: 46 - POS: 88
+Militao - D - Unknown - 1 - OVR: 85 - PAC: 85 - SHO: 50 - PAS: 69 - DRI: 71 - DEF: 85 - PHY: 82
+Alaba - D - Unknown - 2 - OVR: 85 - PAC: 79 - SHO: 71 - PAS: 83 - DRI: 80 - DEF: 85 - PHY: 77
+Carvajal - D - Unknown - 3 - OVR: 86 - PAC: 81 - SHO: 58 - PAS: 79 - DRI: 81 - DEF: 81 - PHY: 79
+Rudiger - D - Unknown - 4 - OVR: 88 - PAC: 82 - SHO: 55 - PAS: 73 - DRI: 70 - DEF: 86 - PHY: 86
+Modric - M - Unknown - 5 - OVR: 86 - PAC: 72 - SHO: 76 - PAS: 88 - DRI: 87 - DEF: 71 - PHY: 64
+Ceballos - M - Unknown - 6 - OVR: 79 - PAC: 63 - SHO: 70 - PAS: 79 - DRI: 82 - DEF: 70 - PHY: 67
+Bellingham - M - Unknown - 7 - OVR: 90 - PAC: 80 - SHO: 87 - PAS: 83 - DRI: 88 - DEF: 78 - PHY: 83
+Valverde - M - Unknown - 8 - OVR: 88 - PAC: 88 - SHO: 82 - PAS: 84 - DRI: 84 - DEF: 80 - PHY: 84
+Vini Jr. - A - Unknown - 9 - OVR: 90 - PAC: 95 - SHO: 84 - PAS: 81 - DRI: 91 - DEF: 29 - PHY: 69
+Rodrygo - A - Unknown - 10 - OVR: 86 - PAC: 89 - SHO: 81 - PAS: 79 - DRI: 88 - DEF: 31 - PHY: 64
+Mbappe - A - Unknown - 11 - OVR: 91 - PAC: 97 - SHO: 90 - PAS: 80 - DRI: 92 - DEF: 36 - PHY: 78
+Alisson - G - Unknown - 12 - OVR: 89 - DIV: 86 -HAN: 85 - KIC: 85 - REF: 89 - SPD: 56 - POS: 90
+Arnold - D - Unknown - 13 - OVR: 86 - PAC: 75 - SHO: 72 - PAS: 90 - DRI: 80 - DEF: 80 - PHY: 74
+van Dijk - D - Unknown - 14 - OVR: 89 - PAC: 78 - SHO: 60 - PAS: 71 - DRI: 71 - DEF: 89 - PHY: 86
+Konate - D - Unknown - 15 - OVR: 83 - PAC: 75 - SHO: 34 - PAS: 59 - DRI: 68 - DEF: 83 - PHY: 84
+Robertson - D - Unknown - 16 - OVR: 85 - PAC: 78 - SHO: 61 - PAS: 82 - DRI: 79 - DEF: 81 - PHY: 78
+Allister - M - Unknown - 17 - OVR: 86 - PAC: 69 - SHO: 82 - PAS: 85 - DRI: 84 - DEF: 76 - PHY: 76
+Elliott - M - Unknown - 18 - OVR: 78 - PAC: 74 - SHO: 71 - PAS: 77 - DRI: 81 - DEF: 53 - PHY: 50
+Szoboszlai - M - Unknown - 19 - OVR: 81 - PAC: 82 - SHO: 80 - PAS: 84 - DRI: 80 - DEF: 59 - PHY: 70
+Salah - A - Unknown - 20 - OVR: 89 - PAC: 89 - SHO: 87 - PAS: 82 - DRI: 88 - DEF: 45 - PHY: 75
+Chiesa - A - Unknown - 21 - OVR: 84 - PAC: 93 - SHO: 83 - PAS: 76 - DRI: 86 - DEF: 52 - PHY: 75
+Gakpo - A - Unknown - 22 - OVR: 83 - PAC: 82 - SHO: 83 - PAS: 78 - DRI: 83 - DEF: 48 - PHY: 75
+Jota - A - Unknown - 23 - OVR: 85 - PAC: 82 - SHO: 82 - PAS: 75 - DRI: 84 - DEF: 57 - PHY: 79
